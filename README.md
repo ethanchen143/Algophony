@@ -1,7 +1,9 @@
 # MusicGen222
 
 TODO: Data prep
+
 TODO: Backend
+
 TODO: Frontend
 
 # Notes:
