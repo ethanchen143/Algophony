@@ -1,7 +1,9 @@
 # Algophony
 
 TODO: Data prep
+
 TODO: Backend
+
 TODO: Frontend
 
 # Notes:
