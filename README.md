@@ -1,4 +1,4 @@
-# MusicGen222
+# Algophony
 
 TODO: Data prep
 TODO: Backend
