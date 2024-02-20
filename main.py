@@ -1,4 +1,9 @@
-
-from characteristics import getGenre
+from characteristics import getTheme,getMoodGroup,getSad,\
+    getHappy,getRelaxed,getAggresive,getPopularity,getEngagement,getGenre,getTimbre
 if __name__ == '__main__':
-    print(getGenre("/Users/ethanchen/Desktop/Blue Mirror Releases/night and day.wav"))
+    # print(getHappy("/Users/ethanchen/Desktop/Reference Tracks/WAV/Jazz/perfumed garden.wav"))
+    # print(getSad("/Users/ethanchen/Desktop/Reference Tracks/WAV/Jazz/perfumed garden.wav"))
+    # print(getTimbre("/Users/ethanchen/Desktop/Reference Tracks/WAV/Jazz/perfumed garden.wav"))
+    # print(getMoodGroup("/Users/ethanchen/Desktop/Reference Tracks/WAV/Jazz/perfumed garden.wav"))
+
+    split("/Users/ethanchen/Desktop/Reference Tracks/WAV/Jazz/oh its so quiet.wav","/Users/ethanchen/Downloads/music data")
