@@ -6,10 +6,6 @@ TODO: Backend
 
 TODO: Frontend
 
-# Data
-
-[Google Drive Link](https://drive.google.com/drive/folders/1YGPTS1tKCzmGRIwc5OH8ZK4VTq-P13it?usp=drive_link)
-
 # Notes:
 Definition of stem: an audio file that has ONE instrument playing.
 Features of stem:
